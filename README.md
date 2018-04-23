@@ -7,3 +7,5 @@ Just mooching around...
 I added this to a branch.
 
 Test branch.
+
+Testing Magit.
