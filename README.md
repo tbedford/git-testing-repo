@@ -9,3 +9,5 @@ I added this to a branch.
 Test branch.
 
 Testing Magit.
+
+I added this while in a branch.
