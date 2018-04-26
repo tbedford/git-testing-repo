@@ -1,4 +1,4 @@
-# Sample-Repo
+# Git Testing Repo (git-testing-repo)
 
 Just for testing out some aspects of GitHub.
 
