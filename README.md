@@ -31,3 +31,15 @@ x = Class.method();
 </code>
 </pre>
 
+Or you can do it like this:
+
+``` markdown
+
+Markdown example with code:
+
+\``` java
+x = Class.method();
+\```
+
+```
+
