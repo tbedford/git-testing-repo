@@ -12,7 +12,7 @@ Testing Magit.
 
 I added this while in a branch.
 
-<pre lang="no-highlight">
+<pre lang="markdown">
 <code>
 ```
 This is an example of Markdown code.
