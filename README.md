@@ -1,5 +1,9 @@
 # Git Testing Repo (git-testing-repo)
 
+## Heading 2
+
+## Heading 2
+
 Just for testing out some aspects of GitHub.
 
 Just mooching around...
