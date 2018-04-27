@@ -17,12 +17,8 @@ This is an example of Markdown code.
 
 You can enter a codeblock using backticks:
 
-``` markdown
 This is my example markdown code
 
 # heading 1
 ## heading 2
-
-```
-
 ```
