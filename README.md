@@ -12,7 +12,9 @@ Testing Magit.
 
 I added this while in a branch.
 
-``` markdown
+<pre lang="no-highlight">
+<code>
+```
 This is an example of Markdown code.
 
 You can enter a codeblock using backticks:
@@ -26,4 +28,6 @@ x = Class.method();
 # heading 1
 ## heading 2
 ```
+</code>
+</pre>
 
