@@ -19,6 +19,11 @@ You can enter a codeblock using backticks:
 
 This is my example markdown code
 
+``` java
+x = Class.method();
+```
+
 # heading 1
 ## heading 2
 ```
+
