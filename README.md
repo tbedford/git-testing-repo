@@ -2,7 +2,7 @@
 
 Another change
 
-## Heading 2
+* [link to doc](sample.md)
 
 ## Heading 2
 
