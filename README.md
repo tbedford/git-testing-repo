@@ -2,6 +2,8 @@
 
 Another change
 
+Yet another useless change!
+
 * [link to doc](sample.md)
 
 ## Heading 2
